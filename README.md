@@ -2,15 +2,18 @@
 
 Hi, I’m **Shivali Pathania** — a Data Science and Business student at UGA interested in technology, public safety, and machine learning applications.
 
----
-<a href="https://shivalipats.github.io/aorf.html">
-  <img src="totoroicon.png" alt="Go to Project" width="50" height="50">  [AORF: Automated On-Rail Response Framework](./aorf.md)
-A public safety innovation that uses AI and API integration to improve railroad accident response.
-- Detects accidents using real-time sensors
-- Automatically alerts local emergency services
-- Uses Precisely and Twilio APIs for geolocation + messaging
-
----
+<a href="https://shivalipats.github.io/aorf.html" style="text-decoration: none; color: black; display: flex; align-items: center; gap: 10px;">
+  <img src="totoroicon.png" alt="Go to Project" width="50" height="50">
+  <div>
+    <strong>AORF: Automated On-Rail Response Framework</strong><br>
+    <span>A public safety innovation that uses AI and API integration to improve railroad accident response.</span>
+    <ul>
+      <li>Detects accidents using real-time sensors</li>
+      <li>Automatically alerts local emergency services</li>
+      <li>Uses Precisely and Twilio APIs for geolocation + messaging</li>
+    </ul>
+  </div>
+</a>
 
 ### 🧠 [Brain Tumor Detection (ML Project)](./mainfile.md)
 A machine learning model for classifying MRI scans to identify tumors.
