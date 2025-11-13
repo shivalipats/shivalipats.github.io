@@ -4,7 +4,7 @@ Hi, I’m **Shivali Pathania** — a Data Science and Business student at UGA in
 
 ---
 <a href="https://shivalipats.github.io/aorf.html">
-  <img src="totoroicon.png" alt="Go to Project" width="100" height="100">
+  <img src="totoroicon.png" alt="Go to Project" width="50" height="50">
 
 </a>
 
