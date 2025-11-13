@@ -3,8 +3,8 @@
 Hi, I’m **Shivali Pathania** — a Data Science and Business student at UGA interested in technology, public safety, and machine learning applications.
 
 ---
-<a href="https://img.icons8.com/plasticine/512/totoro.png">
-  <img src="your-image.jpg" alt="Go to Project" style="width:200px; height:auto; border-radius:10px;">
+<a href="[https://img.icons8.com/plasticine/512/totoro.png](https://shivalipats.github.io/aorf.html)">
+  <img src="totoroicon.png" alt="Go to Project" style="width:200px; height:auto; border-radius:10px;">
 </a>
 
 
