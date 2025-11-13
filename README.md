@@ -1,54 +1,33 @@
-# 🌐 Shivali Pathania — Personal Website
+# 👋 Welcome to My Portfolio
 
-Welcome to the repository for my personal website, built using **GitHub Pages**!  
-This site serves as a digital portfolio where I showcase my **projects, experience, and interests** across data science, technology policy, and public safety innovation.
-
----
-
-## 🧭 Overview
-
-This website is a collection of my work, interests, and accomplishments — all in one place.  
-It includes:
-- 🎓 **About Me** — Learn more about my background, education, and interests.  
-- 💼 **Projects** — Showcasing work in machine learning, public safety tech, and data science.  
-- 🧠 **Research** — Access papers and presentations I’ve written or contributed to.  
-- 🧩 **Resume** — A downloadable version of my current resume.  
-- 📬 **Contact** — Ways to connect with me through email and social links.
+Hi, I’m **Shivali Pathania** — a Data Science and Business student at UGA interested in technology, public safety, and machine learning applications.
 
 ---
 
-## ✨ Features
+## 💼 Featured Projects
 
-- **Responsive Design:** Works seamlessly across devices  
-- **Interactive Projects Page:** View demos, GitHub links, and images  
-- **Custom Styling:** Clean, modern UI with light/dark mode support  
-- **Contact Form:** Uses [Formspree](https://formspree.io/) to send messages directly  
-- **Analytics Ready:** Supports Google Analytics or Plausible integration  
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Hosting:** [GitHub Pages](https://pages.github.com)  
-- **Optional Enhancements:**  
-  - [AOS.js](https://michalsnik.github.io/aos/) for scroll animations  
-  - [Typed.js](https://mattboldt.github.io/typed.js/) for text animation  
-  - [Bootstrap](https://getbootstrap.com/) or [TailwindCSS](https://tailwindcss.com/) for layout  
+### 🚦 [AORF: Automated On-Rail Response Framework](./aorf.md)
+A public safety innovation that uses AI and API integration to improve railroad accident response.
+- Detects accidents using real-time sensors
+- Automatically alerts local emergency services
+- Uses Precisely and Twilio APIs for geolocation + messaging
 
 ---
 
-## 📁 Project Structure
+### 🧠 [Brain Tumor Detection (ML Project)](./mainfile.md)
+A machine learning model for classifying MRI scans to identify tumors.
+- Built with TensorFlow and CNNs
+- Includes a supporting research paper
+- Achieved high accuracy using transfer learning
 
-```bash
-.
-├── index.html           # Main homepage
-├── about.html           # About Me section
-├── projects.html        # Project showcase
-├── resume.html          # Resume page
-├── contact.html         # Contact form
-├── assets/
-│   ├── css/             # Custom stylesheets
-│   ├── js/              # JavaScript files
-│   └── images/          # Profile + project images
-└── README.md            # You are here :)
+---
+
+### 🌙 BridgeUP Sleep Efficiency Analysis
+*(Coming soon — research on sleep patterns and efficiency based on lifestyle factors.)*
+
+---
+
+## 📬 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/pathanias)
+- 🧠 [Portfolio](https://bit.ly/shivalip)
+- ✉️ spathania2024@gmail.com
