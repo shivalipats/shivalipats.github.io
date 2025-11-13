@@ -4,14 +4,7 @@ Hi, I’m **Shivali Pathania** — a Data Science and Business student at UGA in
 
 ---
 <a href="https://shivalipats.github.io/aorf.html">
-  <img src="totoroicon.png" alt="Go to Project" width="50" height="50">
-
-</a>
-
-
-## 💼 Featured Projects
-
-### 🚦 [AORF: Automated On-Rail Response Framework](./aorf.md)
+  <img src="totoroicon.png" alt="Go to Project" width="50" height="50">  [AORF: Automated On-Rail Response Framework](./aorf.md)
 A public safety innovation that uses AI and API integration to improve railroad accident response.
 - Detects accidents using real-time sensors
 - Automatically alerts local emergency services
